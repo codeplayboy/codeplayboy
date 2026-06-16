@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/rashad-profile-banner.jpeg" alt="Rashad Roushan AI Engineer and Full Stack Developer banner" width="100%" />
+
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,35:00D4FF,70:7C3AED,100:FF4ECD&text=Rashad%20Roushan&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Virtual%20Assistant%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="Rashad Roushan banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2400&pause=650&color=00D4FF&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Rashad+Roushan;I+build+AI-powered+software+that+does+real+work;Python+%2B+React+%2B+Node.js+%2B+Automation;Local-first+AI+companions+%7C+Dashboards+%7C+APIs;Code.+Coffee.+Chaos.+Repeat." alt="Typing intro animation" />
@@ -276,4 +280,3 @@ Product polish                   -> UI quality, onboarding, reliability
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF4ECD,50:7C3AED,100:00D4FF" alt="Footer wave" width="100%" />
 
 </div>
-
