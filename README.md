@@ -17,6 +17,9 @@
 <a href="mailto:rashadroushan1@gmail.com">
   <img src="https://img.shields.io/badge/Email-rashadroushan1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rashad" />
 </a>
+<a href="https://www.linkedin.com/in/rashad-roushan">
+  <img src="https://img.shields.io/badge/LinkedIn-Rashad%20Roushan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rashad LinkedIn" />
+</a>
 
 </div>
 
@@ -28,13 +31,13 @@
 
 # Hi, my name is Rashad
 
-### AI Engineering | Full-Stack Development | Prompt Engineering | Virtual Assistant Development
+### AI Engineer | Full-Stack Developer | Prompt Engineer | Virtual Assistant Architect
 
-I am a **Software Engineering graduate from Colombo, Sri Lanka** building AI-integrated products with a strong focus on API-first architecture, automation, full-stack interfaces, and human-centered assistant experiences.
+I am a **Software Engineering graduate from Colombo, Sri Lanka** building AI-integrated products with a sharp focus on API-first architecture, intelligent automation, immersive interfaces, and developer-grade execution.
 
-My current flagship project is **Layla / J.A.R.V.I.S**, a local-first AI operating companion for Windows that combines voice, memory, browser control, desktop automation, live data tools, multi-agent workflows, and a cinematic React dashboard.
+My flagship build is **Layla / J.A.R.V.I.S**, a local-first AI operating companion for Windows that combines voice, memory, browser control, desktop automation, live data tools, multi-agent workflows, and a cinematic React dashboard.
 
-I enjoy turning ambitious ideas into usable systems: fast dashboards, intelligent automation, practical AI workflows, and polished software that feels alive without losing engineering discipline.
+I like turning ambitious concepts into software that feels bold, useful, and real: fast dashboards, practical AI systems, polished automation, and products that look striking without sacrificing engineering discipline.
 
 </td>
 <td width="42%">
@@ -64,6 +67,25 @@ I enjoy turning ambitious ideas into usable systems: fast dashboards, intelligen
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Mode-Builder-22C55E?style=for-the-badge&labelColor=101828" alt="Builder" />
 <br />Prototype fast, test ideas, ship useful systems
+</td>
+</tr>
+</table>
+
+## What Sets Me Apart
+
+<table>
+<tr>
+<td width="33%">
+<h3 align="center">AI-First Product Thinking</h3>
+<p align="center">I do not just bolt AI onto apps. I design workflows where models, tools, memory, and UI work together as one system.</p>
+</td>
+<td width="33%">
+<h3 align="center">Systems With Personality</h3>
+<p align="center">I enjoy building assistants and interfaces that feel vivid, memorable, and human-centered instead of generic and flat.</p>
+</td>
+<td width="33%">
+<h3 align="center">Build Speed With Intent</h3>
+<p align="center">I move fast with LLM-powered workflows, but I still care about structure, reliability, and a clean engineering story.</p>
 </td>
 </tr>
 </table>
@@ -266,6 +288,9 @@ Product polish                   -> UI quality, onboarding, reliability
 </a>
 <a href="mailto:rashadroushan1@gmail.com">
   <img src="https://img.shields.io/badge/Email-rashadroushan1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rashad" />
+</a>
+<a href="https://www.linkedin.com/in/rashad-roushan">
+  <img src="https://img.shields.io/badge/LinkedIn-rashad--roushan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rashad Roushan" />
 </a>
 <img src="https://img.shields.io/badge/Open%20To-Developer%20Internships%20%2B%20AI%20Projects-22C55E?style=for-the-badge&labelColor=101828" alt="Open to developer internships and AI projects" />
 
